@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gloria-dedo
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer Science 
-- 💞️ I’m looking to collaborate on anything IT related 
+- 👀 A fonted developer and ui/ux designer
+- 🌱 I’m currently working on improving my javascript skills
+- 💞️ I’m looking to collaborate on anything tech related 
 - 📫 You can reach me on gmail  gloriadedo100@gmail.com 
 
 <!---
