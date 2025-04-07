@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gloria-dedo
-- 👀 A fonted developer and ui/ux designer
-- 🌱 I’m currently working on improving my javascript skills
-- 💞️ I’m looking to collaborate on anything tech related 
+- 👀 A fonted developer 
+- 🌱 I’m currently working on 100 days of javascript
+- 💞️ I’m looking to collaborate with you 
 - 📫 You can reach me on gmail  gloriadedo100@gmail.com 
 
 <!---
