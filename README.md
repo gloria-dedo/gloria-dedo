@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gloria-dedo
 - 👀 A fonted developer 
-- 🌱 I’m currently working on 100 days of javascript
 - 💞️ I’m looking to collaborate with you 
 - 📫 You can reach me on gmail  gloriadedo100@gmail.com 
 
